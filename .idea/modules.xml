@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android.Photo.iml" filepath="$PROJECT_DIR$/.idea/modules/Android.Photo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android.Photo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/Android.Photo.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/Android.Photo.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/slidingMenu/Android.Photo.lib.slidingMenu.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/slidingMenu/Android.Photo.lib.slidingMenu.iml" />
+    </modules>
+  </component>
+</project>

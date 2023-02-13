@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">TestPhoto</string>
+    <string name="title_activity_main" translatable="false">TestPhoto</string>
+    <string name="ok" translatable="false">OK</string>
+
+
+    <string name="photo_store">Фото</string>
+    <string name="take_photo_store">Сделайте фото</string>
+
+
+</resources>

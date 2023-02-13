@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/background_splash.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/btn_gts.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/edit_text_border.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_action.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_add_photo.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_add_photo_blue.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_art_info.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_art_photo.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_art_report.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_arts_empty.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_beenhere_black_24dp.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_bug.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_bug_blue.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_camera.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_camera_outline.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_catalog.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_chevron_left.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_company.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_direction.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_eti_logo100.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_geo.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_ticket.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_time.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_user_add.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_users_empty.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_visit_data_empty.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_visits_complete.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/ic_visits_empty.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/open_pdf.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/rounded_corners.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/drawable/shadow.xml" value="0.305" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/activity_main.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/activity_main2.xml" value="0.4041666666666667" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/activity_photo_point.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/activity_photo_viewer.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/control_photo.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/control_photo_vert.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/layout/layout_header_default.xml" value="0.4041666666666667" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/menu/art_report.xml" value="0.3015625" />
+        <entry key="..\:/ProgectAndroid/Android.ETI/app/src/main/res/menu/open_pdf.xml" value="0.3015625" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/drawable/background_splash.xml" value="0.271" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/drawable/btn_gts.xml" value="0.319" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/drawable/ic_clear.xml" value="0.148" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/drawable/ic_open_pdf_white.xml" value="0.161" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/drawable/rounded_corners.xml" value="0.112" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_activity_pass.xml" value="0.2545289855072464" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_catalog_art_info.xml" value="0.1" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_reader_pdf.xml" value="0.2545289855072464" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/activity_slave_photo.xml" value="0.22" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/layout_workplace.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/layout/slave_point_item.xml" value="0.26614583333333336" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/menu/open_pdf.xml" value="0.3625" />
+        <entry key="..\:/Project/Android/Android.ETI/app/src/main/res/menu/stopwatch.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/background_splash.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/btn_gts.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/edit_text_border.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/ic_message_new.xml" value="0.304" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/ic_task.xml" value="0.304" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/open_pdf.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/rounded_corners.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/drawable/shadow.xml" value="0.4035" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/activity_main2.xml" value="0.1947821681864235" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/activity_photo_point.xml" value="0.1947821681864235" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/activity_workplace.xml" value="0.1947821681864235" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/layout_point_item2.xml" value="0.370018115942029" />
+        <entry key="..\:/Users/User/Desktop/SitesProject/Android/Android.ETI/app/src/main/res/layout/layout_workplace.xml" value="0.1947821681864235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

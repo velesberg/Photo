@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/drawable_background_splash.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/drawable_btn_gts.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/drawable/btn_gts.xml"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/xml_file_paths.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/xml/file_paths.xml"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/layout_activity_photo_viewer.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/layout/activity_photo_viewer.xml"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/font_eanp72tt.ttf.flat",
+        "source": "eti.inTouch.data.app-main-41:/font/eanp72tt.ttf"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/layout_activity_main.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "eti.inTouch.data.app-merged_res-39:/layout_activity_photo_point.xml.flat",
+        "source": "eti.inTouch.data.app-main-41:/layout/activity_photo_point.xml"
+    }
+]

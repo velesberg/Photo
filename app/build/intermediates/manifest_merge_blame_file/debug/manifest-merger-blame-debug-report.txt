@@ -1,0 +1,212 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eti.inTouch"
+4    android:versionCode="1" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="21"
+7-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml
+9    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE" /> -->
+10    <uses-feature
+10-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:6:5-8:35
+11        android:glEsVersion="0x00020000"
+11-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:7:9-41
+12        android:required="true" />
+12-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:8:9-32
+13    <uses-feature
+13-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:9:5-11:35
+14        android:name="android.hardware.camera"
+14-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:10:9-47
+15        android:required="true" />
+15-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:11:9-32
+16
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:13:5-79
+17-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:13:22-76
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:14:5-67
+18-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:14:22-64
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:15:5-81
+19-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:15:22-78
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:16:5-79
+20-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:16:22-76
+21    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+21-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:17:5-98
+21-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:17:22-95
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:18:5-20:40
+22-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:19:9-65
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:21:5-80
+23-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:21:22-77
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:22:5-65
+24-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:22:22-62
+25    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+25-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:23:5-71
+25-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:23:22-68
+26
+27    <queries>
+27-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:24:5-28:15
+28        <intent>
+28-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:25:9-27:18
+29            <action android:name="androidx.camera.extensions.action.VENDOR_ACTION" />
+29-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:26:13-86
+29-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:26:21-83
+30        </intent>
+31        <!-- Needs to be explicitly declared on Android R+ -->
+32        <package android:name="com.google.android.apps.maps" />
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\velesberg\.gradle\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+32-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\velesberg\.gradle\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+33    </queries>
+34
+35    <application
+35-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:25:5-67:19
+36        android:name="eti.inTouch.data.Sams"
+36-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:26:9-29
+37        android:allowBackup="true"
+37-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:27:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.8.0] C:\Users\velesberg\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:fullBackupContent="false"
+40-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:28:9-42
+41        android:label="@string/app_name"
+41-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:29:9-41
+42        android:requestLegacyExternalStorage="true"
+42-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:30:9-52
+43        android:supportsRtl="true"
+43-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:31:9-35
+44        android:testOnly="true"
+45        android:theme="@style/AppTheme"
+45-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:32:9-40
+46        android:usesCleartextTraffic="true" >
+46-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:33:9-44
+47        <activity
+47-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:37:9-46:20
+48            android:name="eti.inTouch.data.SplashActivity"
+48-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:38:13-43
+49            android:exported="true"
+49-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:39:13-36
+50            android:theme="@style/SplashTheme" >
+50-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:40:13-47
+51            <intent-filter>
+51-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:41:13-44:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:42:17-69
+52-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:42:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:43:17-77
+54-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:43:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:47:9-50:47
+58            android:name="eti.inTouch.data.MainActivity"
+58-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:48:13-41
+59            android:label="@string/title_activity_main"
+59-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:49:13-56
+60            android:theme="@style/AppTheme" />
+60-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:50:13-44
+61        <activity android:name="eti.inTouch.data.photoViewer" />
+61-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:52:9-49
+61-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:52:19-46
+62        <activity
+62-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:53:9-55:62
+63            android:name="eti.inTouch.data.photoPoint"
+63-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:54:13-39
+64            android:configChanges="orientation|screenSize" />
+64-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:55:13-59
+65
+66        <provider
+66-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:57:9-65:20
+67            android:name="androidx.core.content.FileProvider"
+67-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:58:13-62
+68            android:authorities="com.eti.fileprovider"
+68-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:59:13-55
+69            android:exported="false"
+69-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:60:13-37
+70            android:grantUriPermissions="true" >
+70-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:61:13-47
+71            <meta-data
+71-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:62:13-64:54
+72                android:name="android.support.FILE_PROVIDER_PATHS"
+72-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:63:17-67
+73                android:resource="@xml/file_paths" />
+73-->D:\ProgectAndroid\Android.Photo\app\src\main\AndroidManifest.xml:64:17-51
+74        </provider>
+75
+76        <uses-library
+76-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:31:9-33:40
+77            android:name="androidx.camera.extensions.impl"
+77-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:32:13-59
+78            android:required="false" />
+78-->[androidx.camera:camera-extensions:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\6456f5d95a5d06aaa42ac3e04fb9e0a6\transformed\jetified-camera-extensions-1.1.0-beta02\AndroidManifest.xml:33:13-37
+79
+80        <service
+80-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:26:9-35:19
+81            android:name="androidx.camera.core.impl.MetadataHolderService"
+81-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:27:13-75
+82            android:enabled="false"
+82-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:28:13-36
+83            android:exported="false" >
+83-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:29:13-37
+84            <meta-data
+84-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:32:13-34:89
+85                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+85-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:33:17-103
+86                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+86-->[androidx.camera:camera-camera2:1.1.0-beta02] C:\Users\velesberg\.gradle\caches\transforms-3\427aa126f9e154cde75e0d33eab1575b\transformed\jetified-camera-camera2-1.1.0-beta02\AndroidManifest.xml:34:17-86
+87        </service> <!-- Needs to be explicitly declared on P+ -->
+88        <uses-library
+88-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\velesberg\.gradle\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+89            android:name="org.apache.http.legacy"
+89-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\velesberg\.gradle\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+90            android:required="false" />
+90-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\velesberg\.gradle\caches\transforms-3\b40a1390163f0e7810898bd3458b2b29\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+91
+92        <activity
+92-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\velesberg\.gradle\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+93-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\velesberg\.gradle\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+94            android:exported="false"
+94-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\velesberg\.gradle\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+95-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\velesberg\.gradle\caches\transforms-3\7f75b09f886cfa54a0b89c45297c5276\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+96
+97        <meta-data
+97-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\velesberg\.gradle\caches\transforms-3\2981d3657b44a7c8ddb6ef9f9a05182f\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+98            android:name="com.google.android.gms.version"
+98-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\velesberg\.gradle\caches\transforms-3\2981d3657b44a7c8ddb6ef9f9a05182f\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\velesberg\.gradle\caches\transforms-3\2981d3657b44a7c8ddb6ef9f9a05182f\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+100
+101        <provider
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+102            android:name="androidx.startup.InitializationProvider"
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+103            android:authorities="eti.inTouch.androidx-startup"
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+104            android:exported="false" >
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+105            <meta-data
+105-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+106                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+106-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+107                android:value="androidx.startup" />
+107-->[androidx.emoji2:emoji2:1.2.0] C:\Users\velesberg\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+108            <meta-data
+108-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\velesberg\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+109                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+109-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\velesberg\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+110                android:value="androidx.startup" />
+110-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\velesberg\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+111        </provider>
+112    </application>
+113
+114</manifest>
